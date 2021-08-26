@@ -10,3 +10,6 @@ https://bitcoinops.org/en/topics/channel-jamming-attacks/
 
 # hash time locked contract 
 https://bitcoinops.org/en/topics/htlc/
+
+# routing gossip
+https://github.com/lightningnetwork/lightning-rfc/blob/master/07-routing-gossip.md
